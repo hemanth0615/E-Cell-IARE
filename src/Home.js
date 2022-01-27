@@ -17,7 +17,7 @@ function Home(){
                     <p class='menu'>MENU </p>
                 </header>
                 <section class='one'>
-                        <p class='tagline'>platform to change ideas into reality</p>
+                        <p class='tagline'>A platform to change ideas into reality</p>
                             <img class='Brain' src={Brain} alt='' />
                             <br></br>
                             <img class='Shadow' src={Shadow} alt='' />
