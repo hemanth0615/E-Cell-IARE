@@ -46,7 +46,7 @@ function Home(){
             </div>
             <div class='body4'>
                 <p class='events'>EVENTS</p>
-                <p class='events_txt'>We conduct a plethora of events comprising of JAM, speaker sessions, brainstorming sessions and much more to develop overall skills. The events aim for active participation and engagement.
+                <p class='events_txt'>We conduct a plethora of events comprising of JAM, speaker sessions, brainstorming sessions and much more to develop overall skills. The events aim for active participation and engagement.</p>
                 <div class='event1'>
                     <img class='event1_pic' src alt='' />
                 </div>
