@@ -59,7 +59,6 @@ function Home(){
             </div>
             <div class='body5'>
                 <p class='blogs'>BLOGS</p>
-                
                 <div class='blog1'></div>
                 <div class='blog2'></div>
             </div>
